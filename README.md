@@ -20,6 +20,7 @@
 #### **[네트워크 참고내용](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)**
 난양 기숙대학 webprogramming 과정 
 기본이라기엔 너무 빠삭한내용인데 전부 읽을게아니라 ![Alt text](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/images/HTTP_ResponseMessageExample.png)
+
 이사진 나올때까지만 읽어보길 바람. 다읽을필요도없고 이렇구나 싶은건 그냥 넘어가도록하고 
 HTTP가 어떻게 구현되었는지랑 url request를 통해서 서버에서 어떻게 왔다갔다하는지에대해 말해주는것까지만 보면됩니다.
 
